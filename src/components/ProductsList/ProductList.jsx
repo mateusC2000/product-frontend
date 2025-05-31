@@ -161,7 +161,7 @@ const ProductsList = () => {
                 className="confirm-delete-button"
                 onClick={handleDeleteProduct}
               >
-                Confirmar Exclusão
+                Confirmar a Exclusão
               </button>
             </div>
           </div>
